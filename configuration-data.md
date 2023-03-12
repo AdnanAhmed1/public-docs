@@ -435,8 +435,7 @@ These options are only present for IAX accounts.
     <account>
       <name>username@10.2.1.99:6060</name>
       <username>username</username>
-      <password>4Az/iSiiZmVzApH6Nra2jQ==
-</password>
+      <password>4Az/iSiiZmVzApH6Nra2jQ==</password>
       <register_on_startup>true</register_on_startup>
       <voicemail_check_extension/>
       <mwi_subscribe_usage>both</mwi_subscribe_usage>
